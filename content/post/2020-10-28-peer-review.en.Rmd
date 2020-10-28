@@ -29,4 +29,12 @@ The document can runs sufficiently, but I can't use "COVID19CHN"::plot_cases_pro
 * for the development version of package and any non-standard dependencies in README.Vignette demonstrating major functionality that runs successfully locally. Function Documentationfor all exported functions in R help. Examples for all exported functions in R Help that run successfully locally.
 To its founction it has able to install locally. functional claims and performance claims of the software have been confirmed. Also unit tests should pass on the local machine.
 
-[ ✓] **A statement of need** clearly statin
+[ ✓] **A statement of need** clearly stating problems the software is designed to solve and its target audience in README
+[ ✓] **Installation instructions:** for the development version of package and any non-standard dependencies in README
+[ ✓] **Vignette(s)** demonstrating major functionality that runs successfully locally
+[ ✓] **Function Documentation:** for all exported functions in R help
+[ ] **Examples** for all exported functions in R Help that run successfully locally.
+
+ [✓ ] **Installation:** Installation succeeds as documented.
+ [ ] **Functionality:** Any functional claims of the software been confirmed.
+ [ ✓] **Automated tests:** Unit tests cover essential functions of the package
